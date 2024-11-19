@@ -1,0 +1,4 @@
+package com.juancaro.accounts.service;
+
+public interface IAccountsService {
+}
